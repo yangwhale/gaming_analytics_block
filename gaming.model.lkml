@@ -1,4 +1,4 @@
-connection: "gaming_demo"
+connection: "chris_demo_bq_bingoblast_connection"
 
 include: "*.view.lkml"                       # include all views in this project
 #include: "*.dashboard.lookml"   # include a LookML dashboard called my_dashboard
